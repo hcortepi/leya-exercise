@@ -2,6 +2,7 @@
 Requirements:
 - node.js
 - cypress
+
 In order to run the tests you must be on the root folder for this project and run the command `npx cypress run`.
 
 ## Assumptions
