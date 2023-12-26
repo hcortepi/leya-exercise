@@ -1,0 +1,12 @@
+{
+  "name": "leya-exercise",
+  "version": "1.0.0",
+  "description": "Leya Exercise",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.2"
+  }
+}
